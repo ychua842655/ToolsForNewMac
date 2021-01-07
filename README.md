@@ -5,3 +5,4 @@
 4.VideoPlayer `brew install mpv` : video player
   IINA 
 5.Homebrew    :package manager for macos 
+6.FileZilla
