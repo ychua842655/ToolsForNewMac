@@ -6,3 +6,7 @@
   IINA 
 5.Homebrew    :package manager for macos 
 6.FileZilla
+7.Rime - https://rime.im/  input tool
+8.Visual studio code
+9.Sublime Text
+10.Telegram
